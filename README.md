@@ -59,12 +59,12 @@ Welcome to your PDL Multiservices website! This README file contains everything 
 
 ### Files Included
 
-```
+\`\`\`
 📦 PDL Multiservices Website
 ├── 📄 PDL-Clean.htm          (Your main website file)
 ├── 📄 README.md              (This documentation file)
 └── 📄 PDL.htm                (Original/backup file)
-```
+\`\`\`
 
 ### File Details
 
@@ -83,7 +83,7 @@ Welcome to your PDL Multiservices website! This README file contains everything 
 
 All your business information is stored at the top of the file in the CSS `:root` section (lines 15-24):
 
-```css
+\`\`\`css
 :root {
     --company-name: "PDL Multiservices";
     --phone: "(772) 521-6709";
@@ -93,7 +93,7 @@ All your business information is stored at the top of the file in the CSS `:root
     --service-area: "Serving the Greater Port St. Lucie Area";
     ...
 }
-```
+\`\`\`
 
 **To update:**
 1. Right-click on `PDL-Clean.htm`
@@ -107,12 +107,12 @@ All your business information is stored at the top of the file in the CSS `:root
 
 In the same `:root` section, find the color variables:
 
-```css
+\`\`\`css
 --primary: #22c55e;              /* Green - main color */
 --primary-dark: #16a34a;         /* Darker green */
 --primary-light: #86efac;        /* Lighter green */
 --accent: #fbbf24;               /* Yellow/Gold */
-```
+\`\`\`
 
 Change the hex codes to any color you want!
 
